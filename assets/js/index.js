@@ -2,7 +2,7 @@ let themeMeta;
 
 const themeColors = {
 	dark: "#2c2c2c",
-	light: "#d3d3d3"
+	light: "#ffffff"
 };
 
 function updateThemeColor(dark) {
