@@ -30,7 +30,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
 	body {
-		color: #c0c0c0;
+		color: #ff9999;
 		background: #3f3f3f;
 	}
 }
